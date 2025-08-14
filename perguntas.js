@@ -1,22 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Como se chama o Ano Novo Maori?',
+    'O Ano novo Maori se chama Mataraki'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Nova Zelândia?',
+    'A capital da Nova Zelândia é Wellinton'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Geografia',
+    'Em que continente a Nova Zelândia se localiza?',
+    'Se localiza na Oceania'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lingua Maori',
+    'Como se diz OI em Maori?',
+    'Oi em Maori é Ki Ora'
 )
